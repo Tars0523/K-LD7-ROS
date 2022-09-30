@@ -1,0 +1,8 @@
+prefix=/home/jiwoo/kld7/install
+
+Name: radar
+Description: Description of radar
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lradar
+Requires: rospy std_msgs

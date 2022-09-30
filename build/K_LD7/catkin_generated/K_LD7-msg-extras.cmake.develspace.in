@@ -1,0 +1,2 @@
+set(K_LD7_MESSAGE_FILES "/home/jiwoo/kld7/src/K_LD7/msg/radar_message.msg")
+set(K_LD7_SERVICE_FILES "")
