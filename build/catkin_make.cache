@@ -1,2 +1,0 @@
-radar
--DCATKIN_DEVEL_PREFIX=/home/jiwoo/kld7/devel -DCMAKE_INSTALL_PREFIX=/home/jiwoo/kld7/install -G Unix Makefiles
