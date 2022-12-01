@@ -1,4 +1,4 @@
-# K-LD7-ROS for INCSL 
+# K-LD7-ROS 
 
 0) clone at src directiory and follow the instruction
 
