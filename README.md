@@ -1,16 +1,12 @@
 # K-LD7-ROS 
 
-0) clone at src directiory and follow the instruction
+0) catkin_make
 
-1) catkin_make
+1) source ./devel/setup.bash
 
-2) source ./devel/setup.bash
+3) rosrun KLD7 RadarPassing.py (/*Publisher*/)
 
-3) rosrun KLD7 RadarPassing.py
-% Publisher %
+4) rosrun KLD7 RadarStore.py (/*Subscribe*/)
 
-4) rosrun KLD7 RadarStore.py
-% Subcriber , maybe no need to %  
-
-5) rqt_graph
-% for check %
+Code for using K-LD7 radar sensors in ROS1.
+The final goal is to build a point cloud.
